@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import "animate.css";
 
 function Section({
   title,
@@ -43,6 +44,8 @@ const Wrap = styled.div`
 const ItemText = styled.div`
   padding-top: 15vh;
   text-align: center;
+  animation: fadeInUp;
+  animation-duration: 1s;
 `;
 const Buttons = styled.div``;
 
@@ -68,11 +71,15 @@ const LeftButton = styled.div`
   font-size: 12px;
   cursor: pointer;
   margin: 8px;
+  animation: fadeInLeft;
+  animation-duration: 2s;
 `;
 const RightButton = styled(LeftButton)`
   background: white;
   opacity: 0.65;
   color: black;
+  animation: fadeInRight;
+  animation-duration: 2s;
 `;
 const DownArrow = styled.img`
   height: 40px;
