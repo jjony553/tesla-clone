@@ -37,16 +37,19 @@ scroll-snap-stop: always;
 
 ## Screen Shot
 - Desktop
+
 ![desktop](https://user-images.githubusercontent.com/55618626/186060824-12292ee9-79a1-46ba-87da-82a8fa5efe12.gif)
 
 
 
 - Responsive
+
 ![responsive](https://user-images.githubusercontent.com/55618626/186060836-475522e6-4263-4bd6-9b22-f48c55a8b17a.gif)
 
 
 
 - Phone(ios,android)
+
 ![phone(ios,android)](https://user-images.githubusercontent.com/55618626/186060850-29ff3be0-3fbc-43d9-9ec3-60bee843d427.gif)
 
 
