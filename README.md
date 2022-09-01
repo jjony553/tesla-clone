@@ -59,8 +59,6 @@ scroll-snap-stop: always;
 │  App.js
 │  index.css
 │  index.js
-│  reportWebVitals.js
-│  setupTests.js
 │
 ├─app
 │      store.js
